@@ -1,0 +1,14 @@
+# Had issues with friends not showing up online, so I man-in-the-middled my Switch while play Animal Crossing: New Horizons to figure out which domains it was communicating with. I'm sure these change, but temp fix.
+bcat-topics-lp1.cdn.nintendo.net
+dragons.hac.lp1.dragons.nintendo.net
+e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+d3fthpvv7fzx00.cloudfront.net
+receive-lp1.dg.srv.nintendo.net
+bcat-list-lp1.cdn.nintendo.net
+star-c2-g3-dsa.cdn.nintendo.net.edgekey.net
+dragons.hac.lp1.dragons.nintendo.net.edgekey.net
+aauth-lp1.ndas.srv.nintendo.net
+altair-app-lp1-511722363.us-east-1.elb.amazonaws.com
+api.hac.lp1.acbaa.srv.nintendo.net
+consumer.lp1.npns.srv.nintendo.net
+g2ee2e300-lp1.s.n.srv.nintendo.net
