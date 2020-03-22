@@ -1,4 +1,7 @@
-# Had issues with friends not showing up online, so I man-in-the-middled my Switch while play Animal Crossing: New Horizons to figure out which domains it was communicating with. I'm sure these change, but temp fix.
+# Had issues with friends not showing up online, so I man-in-the-middled 
+# my Switch and sniffed the traffic while play Animal Crossing: New Horizons 
+# to figure out which domains it was communicating with. 
+# I'm sure these change, but temp fix.
 bcat-topics-lp1.cdn.nintendo.net
 dragons.hac.lp1.dragons.nintendo.net
 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
